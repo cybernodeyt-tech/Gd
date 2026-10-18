@@ -1,7 +1,7 @@
 {
 	"geode": "4.0.0",
 	"gd": {
-		"android": "2.2074"
+		"android": "*"
 	},
 	"id": "user.autopsybot",
 	"name": "Autopsy Bot",
